@@ -7,4 +7,4 @@ def howdy(name: str):
 
 
 def solong(name: str):
-    return f"So long {name}"
+    return f"So long mister {name}"

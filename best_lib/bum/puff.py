@@ -4,3 +4,7 @@ def best_fun():
 
 def howdy(name: str):
     return f"Good day {name}"
+
+
+def solong(name: str):
+    return f"So long {name}"

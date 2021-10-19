@@ -1,0 +1,14 @@
+on:
+  push:
+    branches:
+      - main
+
+name: release-please
+jobs:
+  release-please:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: GoogleCloudPlatform/release-please-action@v2
+        with:
+          release-type: python
+          package-name: best_lib

@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.0](https://www.github.com/kalosisz/python-t/compare/v0.1.0...v1.0.0) (2021-10-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* adding name to greeting
+
+### Features
+
+* adding name to greeting ([8ee7bc9](https://www.github.com/kalosisz/python-t/commit/8ee7bc98d6a7950bbe50bf006ca4d6fae89a2570))
+* saying goodbye ([e055182](https://www.github.com/kalosisz/python-t/commit/e0551825fd20771810be1bfad7dce53a97746538))
+
 ## 0.1.0 (2021-10-19)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://www.github.com/kalosisz/python-t/compare/v1.0.2...v1.0.3) (2021-10-19)
+
+
+### Bug Fixes
+
+* bloody goodby ([1cab130](https://www.github.com/kalosisz/python-t/commit/1cab13073b0e67d638ce6b1afed85e07bdc11822))
+
 ### [1.0.2](https://www.github.com/kalosisz/python-t/compare/v1.0.1...v1.0.2) (2021-10-19)
 
 

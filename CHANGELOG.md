@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/kalosisz/python-t/compare/v1.0.0...v1.0.1) (2021-10-19)
+
+
+### Bug Fixes
+
+* gday ([edd298c](https://www.github.com/kalosisz/python-t/commit/edd298cf0731790e89e15a22c73be2736df25b89))
+
 ## [1.0.0](https://www.github.com/kalosisz/python-t/compare/v0.1.0...v1.0.0) (2021-10-19)
 
 

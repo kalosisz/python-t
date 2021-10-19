@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/kalosisz/python-t/compare/v1.0.1...v1.0.2) (2021-10-19)
+
+
+### Bug Fixes
+
+* bloody bug ([cbc8099](https://www.github.com/kalosisz/python-t/commit/cbc809992b2e133a27b16cc06021f0d2ca648ba0))
+
 ### [1.0.1](https://www.github.com/kalosisz/python-t/compare/v1.0.0...v1.0.1) (2021-10-19)
 
 

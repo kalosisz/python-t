@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/kalosisz/python-t/compare/v1.0.1...v2.0.0) (2021-10-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* **howdy:** adding age
+
+### Features
+
+* **howdy:** adding age ([3a971a9](https://www.github.com/kalosisz/python-t/commit/3a971a9ca68f8212faef5a394040c987968aa396))
+
 ### [1.0.1](https://www.github.com/kalosisz/python-t/compare/v1.0.0...v1.0.1) (2021-10-19)
 
 

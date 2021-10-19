@@ -2,8 +2,8 @@ def best_fun():
     return True
 
 
-def howdy(name: str):
-    return f"Good day {name}"
+def howdy(name: str, age: int):
+    return f"Good day {name}, {age} old"
 
 
 def solong(name: str):

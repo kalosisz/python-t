@@ -8,3 +8,7 @@ def howdy(name: str, age: int):
 
 def solong(name: str):
     return f"So long mister {name}"
+
+
+def age(age: int):
+    return age

@@ -1,0 +1,4 @@
+primaryBranch: main
+releaseType: python
+handleGHRelease: true
+packageName: best_lib

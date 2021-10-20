@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://www.github.com/kalosisz/python-t/compare/v2.0.0...v2.1.0) (2021-10-20)
+
+
+### Features
+
+* new age ([c44520b](https://www.github.com/kalosisz/python-t/commit/c44520b9c3fc21d5076afdf3bf8a0859caf13632))
+
 ## [2.0.0](https://www.github.com/kalosisz/python-t/compare/v1.0.1...v2.0.0) (2021-10-19)
 
 

@@ -3,7 +3,7 @@ def best_fun():
 
 
 def howdy(name: str, age: int):
-    return f"Good day {name}, {age} old"
+    return f"Good day {name}, {age} old, sure"
 
 
 def solong(name: str):

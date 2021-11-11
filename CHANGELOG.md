@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.2.0](https://www.github.com/kalosisz/python-t/compare/v2.1.0...v2.2.0) (2021-11-11)
+
+
+### Features
+
+* dd ([3e3af95](https://www.github.com/kalosisz/python-t/commit/3e3af95a00dce59a37cf052c65655d409c8937cb))
+* help D ([3440a92](https://www.github.com/kalosisz/python-t/commit/3440a9239a718a02831c0eb63b622e70c96d08d2))
+
+
+### Bug Fixes
+
+* no no ([c408737](https://www.github.com/kalosisz/python-t/commit/c4087376a120622c71e2bc819d74c019e4eee942))
+* puff ([890ff56](https://www.github.com/kalosisz/python-t/commit/890ff56a55a2feaf559efc5b6069e39d1f9f2c7d))
+
 ## [2.1.0](https://www.github.com/kalosisz/python-t/compare/v2.0.0...v2.1.0) (2021-10-20)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.2.1](https://www.github.com/kalosisz/python-t/compare/v2.2.0...v2.2.1) (2021-11-11)
+
+
+### Performance Improvements
+
+* increase speed ([8bf54b7](https://www.github.com/kalosisz/python-t/commit/8bf54b7d5824617de80dd2ed23711dfc4cbd1c71))
+
 ## [2.2.0](https://www.github.com/kalosisz/python-t/compare/v2.1.0...v2.2.0) (2021-11-11)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.5.0](https://www.github.com/kalosisz/python-t/compare/v2.4.1...v2.5.0) (2021-11-15)
+
+
+### Features
+
+* time ([55e0ff2](https://www.github.com/kalosisz/python-t/commit/55e0ff23ebf0b7bfbaaa9937dbb2062f0efeae2f))
+
 ### [2.4.1](https://www.github.com/kalosisz/python-t/compare/v2.4.0...v2.4.1) (2021-11-15)
 
 

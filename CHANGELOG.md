@@ -5,6 +5,14 @@
 
 ### Bug Fixes
 
+* age ([6b139e2](https://www.github.com/kalosisz/python-t/commit/6b139e2a97755c864736e317e67db137baea5354))
+* solong ([b6f3225](https://www.github.com/kalosisz/python-t/commit/b6f3225cba21e3aee22edfb20ba193f1386718a3))
+
+### [2.3.1](https://www.github.com/kalosisz/python-t/compare/v2.3.0...v2.3.1) (2021-11-15)
+
+
+### Bug Fixes
+
 * solong ([b6f3225](https://www.github.com/kalosisz/python-t/commit/b6f3225cba21e3aee22edfb20ba193f1386718a3))
 
 ## [2.3.0](https://www.github.com/kalosisz/python-t/compare/v2.2.1...v2.3.0) (2021-11-15)

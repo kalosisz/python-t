@@ -15,9 +15,14 @@ jobs:
   release-please:
     runs-on: ubuntu-20.04
     steps:
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
       - uses: GoogleCloudPlatform/release-please-action@v2
         id: release
         with:
           release-type: python
           package-name: best_lib
+          default-branch: ${{ steps.extract_branch.outputs.branch }}
           token: ${{ secrets.GITHUB_TOKEN }}

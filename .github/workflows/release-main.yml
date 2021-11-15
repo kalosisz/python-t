@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - master
+      - main
       - release-*
 
 name: Release please
@@ -21,5 +21,3 @@ jobs:
           release-type: python
           package-name: best_lib
           token: ${{ secrets.GITHUB_TOKEN }}
-    outputs:
-      release-created: ${{ steps.release.outputs.release_created }}

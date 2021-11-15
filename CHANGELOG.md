@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.3.0](https://www.github.com/kalosisz/python-t/compare/v2.2.1...v2.3.0) (2021-11-15)
+
+
+### Features
+
+* feet to cm converter ([95dba9b](https://www.github.com/kalosisz/python-t/commit/95dba9bfb9de4e3ae2984e9f2827b119ee533480))
+* greet by name ([a2f4ee1](https://www.github.com/kalosisz/python-t/commit/a2f4ee145ea30335616dde231103b960079dd8ca))
+
 ### [2.2.1](https://www.github.com/kalosisz/python-t/compare/v2.2.0...v2.2.1) (2021-11-11)
 
 

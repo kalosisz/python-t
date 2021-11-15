@@ -1,0 +1,25 @@
+on:
+  push:
+    branches:
+      - master
+      - release-*
+
+name: Release please
+
+permissions:
+  contents: write
+  pull-requests: write
+  packages: write
+
+jobs:
+  release-please:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: GoogleCloudPlatform/release-please-action@v2
+        id: release
+        with:
+          release-type: python
+          package-name: best_lib
+          token: ${{ secrets.GITHUB_TOKEN }}
+    outputs:
+      release-created: ${{ steps.release.outputs.release_created }}

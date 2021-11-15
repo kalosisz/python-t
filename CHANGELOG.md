@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.6.0](https://www.github.com/kalosisz/python-t/compare/v2.5.1...v2.6.0) (2021-11-15)
+
+
+### Features
+
+* bye ([4ee9744](https://www.github.com/kalosisz/python-t/commit/4ee97443d39477692700666b10e6340da2650a65))
+
+
+### Bug Fixes
+
+* greet ([7c7a21e](https://www.github.com/kalosisz/python-t/commit/7c7a21ed0f9ce03755fbbd71d18af45057d32235))
+
 ### [2.5.1](https://www.github.com/kalosisz/python-t/compare/v2.5.0...v2.5.1) (2021-11-15)
 
 

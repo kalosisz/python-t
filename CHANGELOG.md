@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.4.1](https://www.github.com/kalosisz/python-t/compare/v2.4.0...v2.4.1) (2021-11-15)
+
+
+### Bug Fixes
+
+* age ([2481a42](https://www.github.com/kalosisz/python-t/commit/2481a42daf161560b8b4f3777c31ca7f1fdd3953))
+
 ## [2.4.0](https://www.github.com/kalosisz/python-t/compare/v2.3.1...v2.4.0) (2021-11-15)
 
 

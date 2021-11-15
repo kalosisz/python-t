@@ -1,3 +1,2 @@
-print("no, no")
-
-print("help")
+def greet(name):
+    print("Hello, " + name)

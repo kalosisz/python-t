@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.0](https://www.github.com/kalosisz/python-t/compare/v2.3.1...v2.4.0) (2021-11-15)
+
+
+### Features
+
+* temp ([8613724](https://www.github.com/kalosisz/python-t/commit/8613724ce0745c80fd9475d248e336442d8a811e))
+
 ### [2.3.1](https://www.github.com/kalosisz/python-t/compare/v2.3.0...v2.3.1) (2021-11-15)
 
 

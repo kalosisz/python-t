@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.5.1](https://www.github.com/kalosisz/python-t/compare/v2.5.0...v2.5.1) (2021-11-15)
+
+
+### Bug Fixes
+
+* howdy ([97e1ac6](https://www.github.com/kalosisz/python-t/commit/97e1ac6b391cd58b0d3178a2dd538d5a5935151a))
+
 ## [2.5.0](https://www.github.com/kalosisz/python-t/compare/v2.4.1...v2.5.0) (2021-11-15)
 
 

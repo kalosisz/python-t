@@ -21,3 +21,7 @@ def feet_to_cm(feet: int):
 
 def fahrenheit_to_celsius(fahrenheit: int):
     return (fahrenheit - 32) * 5 / 9
+
+
+def parse_time(time: str):
+    return time.split(':')

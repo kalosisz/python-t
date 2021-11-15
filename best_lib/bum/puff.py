@@ -12,3 +12,8 @@ def solong(name: str):
 
 def age(age: int):
     return age
+
+
+# calculate feet to centimeters
+def feet_to_cm(feet: int):
+    return feet * 30.48

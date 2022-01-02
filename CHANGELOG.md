@@ -1,5 +1,29 @@
 # Changelog
 
+### [3.1.1](https://www.github.com/kalosisz/python-t/compare/v2.6.0...v3.1.1) (2022-01-02)
+
+
+### Features
+
+* abc ([7d8f706](https://www.github.com/kalosisz/python-t/commit/7d8f7061bb04708edcea844a675a3318dfede821))
+
+
+### Continuous Integration
+
+* mark prod ([43a2d5e](https://www.github.com/kalosisz/python-t/commit/43a2d5e22bac690a31dfc5f14b7daa4958d74125))
+
+
+### Build System
+
+* mark prod ([dc5d778](https://www.github.com/kalosisz/python-t/commit/dc5d77877a9f1b5b319f642300ea410e3622002b))
+
+
+### Miscellaneous Chores
+
+* mark prod ([1804bc4](https://www.github.com/kalosisz/python-t/commit/1804bc466c12a8e5f2a6480ce1e8a09be9def099))
+* release 2.8.0 ([c5adbb6](https://www.github.com/kalosisz/python-t/commit/c5adbb6fc6f4f3266493311715ce1688aaf6aab4))
+* **release:** mark prod ([df5f1cf](https://www.github.com/kalosisz/python-t/commit/df5f1cf0ec5e3b1204b5981fd7f6b76fc0f25748))
+
 ## [2.6.0](https://www.github.com/kalosisz/python-t/compare/v2.5.1...v2.6.0) (2021-11-15)
 
 

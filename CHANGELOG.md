@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.0](https://www.github.com/kalosisz/python-t/compare/v2.6.0...v2.7.0) (2022-01-02)
+
+
+### Features
+
+* abc ([7d8f706](https://www.github.com/kalosisz/python-t/commit/7d8f7061bb04708edcea844a675a3318dfede821))
+
 ## [2.6.0](https://www.github.com/kalosisz/python-t/compare/v2.5.1...v2.6.0) (2021-11-15)
 
 
